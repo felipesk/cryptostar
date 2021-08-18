@@ -4,7 +4,11 @@
 ### ToDo
 This Starter Code has already implemented the functionalities you implemented in the StarNotary (Version 2) exercise, and have comments in all the files you need to implement your tasks.
 
-
+### Project details
+1) Your ERC-721 Token Name = "Constelation"
+2) Your ERC-721 Token Symbol = "CON"
+3) Version of Truffle used  = v5.4.6
+4) Version or OpenZeppelin used = 2.3.0
 
 ### Dependencies
 For this project, you will need to have:
